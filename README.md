@@ -22,14 +22,14 @@
 
 ## Задание 1
 
-BPMN-диаграмма представлена в файле [`Задание 1.bpmn`](1.png)
+BPMN-диаграмма представлена в файле ![Задание 1.bpmn](1.png)
 Открыть можно в [Camunda Modeler](https://camunda.com/download/modeler/) или [bpmn.io](https://bpmn.io)
 
 ---
 
 ## Задание 2
 
-BPMN-диаграмма — [`Задание 2.bpmn`](2.png)
+BPMN-диаграмма — ![Задание 2.bpmn](2.png)
 Описание — `Задание 2.docx`
 
 ---
